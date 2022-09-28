@@ -14,6 +14,7 @@ In general, the steps for testing the hypothesis are as follows. First, perform 
 Diagnostic checking is carried out after knowing the model specifications for each panel data model that is formed where the panel data model has significantly affected the dependent variable. Diagnostic checking on panel data consists of Serial Correlation Test and Heteroscedasticity.
 
 After passing the diagnostic test, significant panel data regression models will be obtained for the data, so it is necessary to select the best model. The parameters used are as follows:
+
 a. Coefficient of Determination (R-Square)
 A model is said to be good if it has a large R-square (close to 1). It can also be said that the greater the value of R square, the better the regression model will be.
 
